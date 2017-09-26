@@ -1,0 +1,772 @@
+Colony,Treatment,Time,Ant,Behavior,Location/Origin,Source/Destination,Notes
+6,2,0:31:05,****,E,mediocre,,
+6,2,0:34:44,****,L,mediocre,,
+6,2,0:40:07,****,E,mediocre,,
+6,2,0:40:10,****,L,mediocre,,
+6,2,1:12:56,****,FB,old,good,the pair enters the good nest at 1:13:21
+6,2,1:13:22,****,E,good,,
+6,2,1:43:06,****,L,good,,
+6,2,2:03:15,****,E,good,,
+6,2,2:12:51,****,L,good,,
+6,2,2:22:28,****,E,good,,
+6,2,2:28:44,****,L,good,,
+6,2,2:33:45,****,E,good,,
+6,2,2:36:26,****,L,good,,
+6,2,2:44:19,****,TA,good,old?,
+6,2,2:46:30,****,L,good,,
+6,2,2:46:42,****,LB,good,old,occurs outside nest. GO** follows. exit stage right
+6,2,2:52:12,****,TA,good,old?,"confirmed, transports Ly**"
+6,2,2:54:59,****,LB,good,old,"Tandem run begins within nest. *W**1 follows at 02:54:28, breaks off at 2:54:31. WO**0 follows at 2:54:31, breaks off at 2:54:57. BWYL begins following at 2:54:57 and follows **** out of the nest."
+6,2,2:55:53,****,L,good,,"confirmed, leads BWYL out"
+6,2,3:02:05,****,TA,good,old?,
+6,2,3:05:23,****,L,good,,
+6,2,3:08:25,****,TB,good,old?,confirmed
+6,2,3:11:24,****,L,good,,added
+6,2,3:13:50,****,TA,good,old?,confirmed
+6,2,3:15:24,****,L,good,,
+6,2,3:20:53,****,TB,good,old?,
+6,2,3:24:31,****,L,good,,
+6,2,3:24:37,****,LB,good,old,
+6,2,3:29:35,****,TB,good,old?,
+6,2,3:31:54,****,L,good,,
+6,2,3:34:33,****,TA,good,old?,
+6,2,3:35:38,****,L,good,,
+6,2,3:38:50,****,TB,good,old?,
+6,2,3:42:02,****,L,good,,
+6,2,3:47:44,****,TB,good,old?,
+6,2,3:49:44,****,L,good,,
+6,2,3:51:57,****,TB,good,old?,
+6,2,3:53:53,****,L,good,,
+6,2,3:56:37,****,TB,good,old?,
+6,2,3:58:52,****,L,good,,
+6,2,4:01:10,****,TB,good,old?,
+6,2,4:04:26,****,L,good,,
+6,2,4:06:47,****,TB,good,old?,
+6,2,4:08:53,****,L,good,,
+6,2,4:12:15,****,TA,good,old?,
+6,2,4:13:24,****,L,good,,
+6,2,4:17:15,****,TA,good,old?,
+6,2,4:18:07,****,L,good,,
+6,2,4:20:23,****,TB,good,old?,
+6,2,4:22:36,****,L,good,,
+6,2,4:26:11,****,TB,good,old?,
+6,2,4:27:19,****,L,good,,
+6,2,4:29:53,****,TB,good,old?,
+6,2,4:31:10,****,L,good,,
+6,2,4:36:44,****,TA,good,old?,
+6,2,4:36:57,****,L,good,,
+6,2,4:37:36,****,TB,good,old?,**** at 4:37:28 took brood from WOo*1 and carried into nest
+6,2,4:38:22,****,L,good,,
+6,2,4:40:56,****,TA,good,old?,
+6,2,4:42:26,****,L,good,,
+6,2,4:42:58,****,TB,good,old?,
+6,2,4:45:25,****,L,good,,
+6,2,4:49:30,****,TA,good,old?,
+6,2,4:50:58,****,L,good,,
+6,2,5:01:34,****,TA,good,old?,
+6,2,5:09:59,****,L,good,,
+6,2,0:50:49,**WW,E,mediocre,,
+6,2,0:59:59,**WW,L,mediocre,,
+6,2,1:17:55,**WW,E,mediocre,,
+6,2,1:22:01,**WW,L,mediocre,,
+6,2,1:22:07,**WW,E,mediocre,,
+6,2,1:41:36,**WW,L,mediocre,,
+6,2,1:48:09,**WW,E,mediocre,,
+6,2,2:21:51,**WW,L,mediocre,,
+6,2,2:25:49,**WW,E,mediocre,,
+6,2,2:30:06,**WW,BCO,mediocre,?,Carried back to old nest?
+6,2,2:51:46,**WW,E,mediocre,,
+6,2,2:54:15,**WW,L,mediocre,,
+6,2,3:03:26,**WW,E,mediocre,,
+6,2,3:04:38,**WW,TAO,mediocre,?,"yes, carries WGG* out"
+6,2,4:13:00,**WW,BC,good,old?,yes
+6,2,4:47:37,**YG,BC,good,old?,
+6,2,1:29:47,**YY,E,mediocre,,
+6,2,1:43:17,**YY,L,mediocre,,
+6,2,2:02:49,**YY,E,mediocre,,
+6,2,2:07:45,**YY,L,mediocre,,
+6,2,2:11:57,**YY,E,mediocre,,
+6,2,2:19:15,**YY,BCO,mediocre,?,Carried back to old nest?
+6,2,2:30:37,**YY,E,mediocre,,
+6,2,2:32:07,**YY,L,mediocre,,this nest is a ghost town
+6,2,3:28:09,**YY,E,mediocre,,
+6,2,3:31:29,**YY,L,mediocre,,
+6,2,4:17:15,**YY,BC,good,old?,
+6,2,4:42:32,**YY,L,good,,
+6,2,4:44:45,**YY,E,good,,
+6,2,5:09:20,**YY,L,good,,
+6,2,5:12:38,**YY,E,good,,
+6,2,4:46:01,*gOl,BC,good,old?,
+6,2,2:49:08,*GYP,BC,good,old?,
+6,2,4:09:50,*GYP,L,good,,
+6,2,4:10:04,*GYP,E,good,,
+6,2,4:37:48,*O**,BC,good,old?,
+6,2,0:55:46,*OGL,E,good,,
+6,2,1:07:59,*OGL,L,good,,good nest is now empty
+6,2,2:04:55,*OGL,E,good,,
+6,2,2:05:07,*OGL,L,good,,
+6,2,2:05:15,*OGL,E,good,,
+6,2,2:05:17,*OGL,L,good,,
+6,2,2:05:44,*OGL,E,good,,
+6,2,4:20:08,*OGL,L,good,,
+6,2,4:22:29,*OGL,E,good,,
+6,2,4:36:23,*OOG,BC,good,old?,
+6,2,4:40:56,*OPO,BC,good,old?,
+6,2,3:50:58,*P**1,BC,good,old?,
+6,2,2:54:52,*PWO,E,mediocre,,
+6,2,2:55:44,*PWO,L,mediocre,,
+6,2,4:02:10,*PWO,BC,good,old?,
+6,2,4:34:20,*PWO,L,good,,confirmed
+6,2,4:41:15,*PWO,E,good,,"fixed, mislabeled under ppwo"
+6,2,4:43:15,*PWO,L,good,,confirmed
+6,2,5:02:26,*PWO,E,good,,
+6,2,4:35:11,*Pyl,BC,good,old?,
+6,2,4:49:22,*PYW,BC,good,old?,
+6,2,1:44:43,*w**0,E,mediocre,,
+6,2,1:53:33,*w**0,L,mediocre,,
+6,2,4:42:43,*w**0,BC,good,old?,
+6,2,2:11:30,*W**1,E,good,,yes
+6,2,3:03:01,*W**1,L,good,,fixed
+6,2,3:11:08,*W**1,E,good,,
+6,2,3:15:50,*W**1,L,good,,
+6,2,3:21:44,*W**1,E,good,,confirmed.
+6,2,3:23:14,*W**1,L,good,,confirmed.
+6,2,3:29:30,*W**1,E,good,,gefixt
+6,2,3:36:57,*W**1,L,good,,fixed
+6,2,3:51:51,*W**1,TA,good,old?,fixed. carries in another ant
+6,2,3:59:30,*W**1,L,good,,fixed
+6,2,4:03:07,*W**1,TB,good,old?,"fixed, enters carrying brood"
+6,2,4:07:52,*W**1,L,good,,confirmed
+6,2,4:11:49,*W**1,TB,good,old?,"fixed, enters with brood"
+6,2,4:13:44,*W**1,L,good,,confirmed
+6,2,4:16:47,*W**1,TB,good,old?,"fixed, enters with brood"
+6,2,4:19:37,*W**1,L,good,,confirmed
+6,2,4:23:28,*W**1,TB,good,old?,"fixed, enters with brood"
+6,2,4:26:00,*W**1,L,good,,confirmed
+6,2,4:30:38,*W**1,TB,good,old?,"fixed, enters with brood"
+6,2,4:34:22,*W**1,L,good,,fixed
+6,2,4:37:04,*W**1,TB,good,old?,"fixed, enters with brood"
+6,2,4:39:20,*W**1,L,good,,confirmed
+6,2,4:51:03,*W**1,E,good,,confirmed
+6,2,4:57:38,*W**1,L,good,,confirmed
+6,2,5:11:55,*W**1,E,good,,confirmed
+6,2,4:31:58,*W**2,BC,good,old?,This ant is confirmed unique from the other *w**. White spot located towards the center of her thorax v.s the other *w**'s white: closer to head
+6,2,2:42:46,BO*Y,E,good,,
+6,2,2:36:46,BPpY,BC,good,old?,
+6,2,4:28:32,BPpY,L,good,,
+6,2,4:44:21,BW**,BC,good,old?,
+6,2,0:55:08,BWYL,E,mediocre,,
+6,2,0:57:29,BWYL,L,mediocre,,
+6,2,0:59:59,BWYL,E,mediocre,,
+6,2,1:01:07,BWYL,L,mediocre,,
+6,2,1:14:26,BWYL,E,good,,
+6,2,1:40:22,BWYL,L,good,,
+6,2,1:52:15,BWYL,E,mediocre,,
+6,2,1:53:19,BWYL,L,mediocre,,
+6,2,2:00:02,BWYL,E,good,,
+6,2,2:22:11,BWYL,L,good,,
+6,2,2:25:24,BWYL,E,good,,
+6,2,2:41:17,BWYL,FB,good,old,Follows WGOW out of good nest. Tandem run behavior after they exit.
+6,2,2:41:18,BWYL,L,good,,confirmed
+6,2,2:46:03,BWYL,E,good,,confirmed
+6,2,2:46:41,BWYL,L,good,,verified
+6,2,2:46:55,BWYL,E,good,,verified
+6,2,2:47:15,BWYL,L,good,,
+6,2,2:47:27,BWYL,E,good,,
+6,2,2:54:59,BWYL,FB,good,old,"verified, follows **** out of good nest"
+6,2,2:55:56,BWYL,L,good,,verified
+6,2,3:04:58,BWYL,TB,good,old?,verified
+6,2,3:08:03,BWYL,L,good,,
+6,2,3:13:40,BWYL,TB,good,old?,
+6,2,3:18:02,BWYL,L,good,,verified. Why is this out of order? 
+6,2,3:23:36,BWYL,TB,good,old?,verified
+6,2,3:26:06,BWYL,L,good,,verified
+6,2,3:30:53,BWYL,TB,good,old?,
+6,2,3:32:43,BWYL,L,good,,
+6,2,3:36:37,BWYL,TA,good,old?,
+6,2,3:38:05,BWYL,L,good,,
+6,2,3:40:42,BWYL,TB,good,old?,
+6,2,3:41:58,BWYL,L,good,,
+6,2,3:45:31,BWYL,TB,good,old?,
+6,2,3:47:27,BWYL,L,good,,
+6,2,3:49:59,BWYL,TB,good,old?,
+6,2,3:52:06,BWYL,L,good,,
+6,2,3:55:12,BWYL,TB,good,old?,verified
+6,2,3:56:42,BWYL,L,good,,gefixt
+6,2,3:59:25,BWYL,TB,good,old?,verified
+6,2,4:00:17,BWYL,L,good,,verified
+6,2,4:03:15,BWYL,TA,good,old?,verified
+6,2,4:04:47,BWYL,L,good,,verified
+6,2,4:08:35,BWYL,TB,good,old?,"verified, enters with brood"
+6,2,4:09:53,BWYL,L,good,,
+6,2,4:12:44,BWYL,TB,good,old?,
+6,2,4:14:12,BWYL,L,good,,
+6,2,4:17:46,BWYL,TB,good,old?,
+6,2,4:18:29,BWYL,L,good,,
+6,2,4:20:41,BWYL,TB,good,old?,
+6,2,4:21:27,BWYL,L,good,,
+6,2,4:24:14,BWYL,TB,good,old?,
+6,2,4:24:56,BWYL,L,good  ,,
+6,2,4:27:15,BWYL,TB,good,old?,
+6,2,4:28:05,BWYL,L,good,,
+6,2,4:30:57,BWYL,TB,good,old?,
+6,2,4:31:27,BWYL,L,good,,
+6,2,4:34:00,BWYL,TB,good,old?,
+6,2,4:34:57,BWYL,L,good,,
+6,2,4:37:53,BWYL,TB,good,old?,
+6,2,4:38:47,BWYL,L,good,,
+6,2,4:40:46,BWYL,TB,good,old?,
+6,2,4:41:43,BWYL,L,good,,
+6,2,4:44:21,BWYL,TA,good,old?,
+6,2,4:44:46,BWYL,L,good,,
+6,2,4:47:06,BWYL,TB,good,old?,
+6,2,4:48:00,BWYL,L,good,,
+6,2,5:01:03,BWYL,E,good,,
+6,2,4:26:55,bYWL,BC,good,old?,verified
+6,2,4:12:15,BYYP,BC,good,old?,
+6,2,4:23:06,G*PG,BC,good,old?,"Appears as G*PG in migration 1, appears as G*** migrations 2-5."
+6,2,4:13:18,Gg**,BC,good,old?,
+6,2,4:26:35,GGLO,BC,good,old?,
+6,2,3:02:05,GL**,BC,good,old?,
+6,2,1:10:30,GO**,E,mediocre,,
+6,2,1:13:18,GO**,L,mediocre,,
+6,2,1:16:08,GO**,TA,mediocre,old?,
+6,2,1:16:47,GO**,TAO,mediocre,?,"GO** does not appear with a TA at good, therefore guessing she heads for old"
+6,2,1:26:30,GO**,E,mediocre,,
+6,2,1:27:51,GO**,TAO,mediocre,?,Carried back to old nest?
+6,2,2:11:20,GO**,E,mediocre,,
+6,2,2:18:13,GO**,L,mediocre,,
+6,2,2:18:49,GO**,E,mediocre,,
+6,2,2:19:15,GO**,TAO,mediocre,?,Carried back to old nest?
+6,2,2:26:30,GO**,E,mediocre,,
+6,2,2:30:06,GO**,TAO,mediocre,?,Carried back to old nest?
+6,2,2:46:42,GO**,FB,good,old,next spotted at mediocre
+6,2,3:00:16,GO**,E,mediocre,,
+6,2,3:00:21,GO**,L,mediocre,,
+6,2,3:02:04,GO**,E,mediocre,,
+6,2,3:02:05,GO**,L,mediocre,,
+6,2,3:07:56,GO**,E,good,,
+6,2,3:34:54,GO**,L,good,,
+6,2,3:35:23,GO**,E,good,,
+6,2,3:48:32,GO**,L,good,,
+6,2,3:51:04,GO**,E,good,,
+6,2,4:01:20,GO**,L,good,,
+6,2,4:05:04,GO**,BC,good,old?,verified; is carried in
+6,2,4:25:27,GO**,L,good,,fixed
+6,2,4:39:07,GO**,E,good,,verified
+6,2,4:42:04,GO**,FB,good,old,"verified, follows WGOW out"
+6,2,4:42:05,GO**,L,good,,
+6,2,4:53:01,GO**,E,good,,
+6,2,5:12:20,GO**,L,good,,
+6,2,3:43:46,GPGY,BC,good,old?,appeared as G*PG in migration 1
+6,2,4:17:30,GW**,BC,good,old?,
+6,2,3:56:39,LG**,BC,good,old?,
+6,2,2:44:19,LO*Y,BC,good,old?,
+6,2,0:59:35,LWLB,E,mediocre,,
+6,2,0:59:49,LWLB,L,mediocre,,
+6,2,3:52:49,LWLB,E,good,,
+6,2,4:06:18,LWLB,L,good,,
+6,2,2:52:12,Ly**,BC,good,old?,
+6,2,4:36:52,O**G,E,good,,dent
+6,2,1:49:42,O*G*,E,mediocre,,round green
+6,2,1:59:53,O*G*,L,mediocre,,round green
+6,2,4:33:52,O*G*,BC,good,old?,smallish. Round gaster green. Orange to left.
+6,2,3:47:12,OBWO,BC,good,old?,
+6,2,0:00:00,OldUncoded,Open,old,,"The mediocre nest data were taken from .mts files, since replaced by a single .mov file."
+6,2,0:33:55,OO**1,E,mediocre,,regular size
+6,2,0:45:06,OO**1,L,mediocre,,regular size
+6,2,4:45:58,OO**1,BC,good,old?,
+6,2,4:49:30,OO**2,BC,good,old?,smaller
+6,2,0:49:21,P***,E,mediocre,,
+6,2,0:49:33,P***,L,mediocre,,
+6,2,3:34:33,P***,BC,good,old?,Carried in by ****
+6,2,3:55:36,P***,L,good,,verified
+6,2,4:06:22,P***,TB,good,old?,enters with brood
+6,2,4:08:40,P***,L,good,,verified
+6,2,4:13:18,P***,TA,good,old?,enters carrying Gg**
+6,2,4:17:30,P***,L,good,,added
+6,2,4:21:44,P***,TB,good,old?,enters with brood
+6,2,4:25:43,P***,L,good,,yep
+6,2,4:29:32,P***,TB,good,old?,enters with brood
+6,2,4:33:12,P***,L,good,,verified
+6,2,4:36:23,P***,TA,good,old?,"yes, deposits *OOG in nest"
+6,2,4:37:42,P***,L,good,,verified
+6,2,4:42:43,P***,TA,good,old?,verified
+6,2,4:43:22,P***,L,good,,verified
+6,2,4:46:01,P***,TA,good,old?,Verified. P*** has a tendency to run along the underside of the glass after TA.
+6,2,4:47:30,P***,L,good,,verified
+6,2,4:52:21,P***,TB,good,old?,enters with brood
+6,2,4:54:07,P***,L,good,,verif
+6,2,5:07:39,P***,E,good,,verified
+6,2,1:16:08,P*Y*,BC,mediocre,old?,Identity difficult to determine. Yellow on gaster. Carried ant is never visible by herself; she's blocked by her transporter the entire time she's on screen. Likely p*y*
+6,2,1:16:47,P*Y*,BCO,mediocre,?,Carried back to old nest?
+6,2,1:25:09,P*Y*,E,mediocre,,
+6,2,1:27:51,P*Y*,BCO,mediocre,?,Carried back to old nest?
+6,2,3:51:51,P*Y*,BC,good,old?,
+6,2,4:07:10,P*Y*,L,good,,
+6,2,4:08:04,P*Y*,E,good,,
+6,2,4:09:40,P*Y*,FB,good,old,eventually follows Y*PO out from the nest
+6,2,4:12:23,P*Y*,FB,good,old,
+6,2,4:12:24,P*Y*,L,good,,verified
+6,2,4:24:29,P*Y*,TB,good,old?,
+6,2,4:25:57,P*Y*,L,good,,
+6,2,4:30:04,P*Y*,TB,good,old?,
+6,2,4:31:12,P*Y*,L,good,,
+6,2,4:34:47,P*Y*,TB,good,old?,yes
+6,2,4:35:00,P*Y*,L,good,,
+6,2,4:40:20,P*Y*,TA,good,old?,
+6,2,4:41:27,P*Y*,L,good,,yes
+6,2,4:47:37,P*Y*,TA,good,old?,
+6,2,4:48:48,P*Y*,L,good,,yes
+6,2,5:00:32,P*Y*,E,good,,yes
+6,2,0:27:26,PB**,E,mediocre,,
+6,2,0:36:18,PB**,L,mediocre,,
+6,2,1:00:10,PB**,E,mediocre,,
+6,2,1:00:44,PB**,L,mediocre,,
+6,2,1:01:06,PB**,E,mediocre,,
+6,2,1:01:13,PB**,L,mediocre,,
+6,2,1:55:02,PB**,E,mediocre,,
+6,2,1:55:50,PB**,L,mediocre,,
+6,2,1:55:59,PB**,E,mediocre,,
+6,2,2:09:52,PB**,L,mediocre,,
+6,2,2:57:04,PB**,E,good,,
+6,2,4:17:24,PB**,L,good,,
+6,2,4:26:25,PB**,E,good,,
+6,2,4:33:24,PB**,FB,good,old,
+6,2,4:33:24,PB**,L,good,,confirmed
+6,2,4:58:29,PB**,E,good,,
+6,2,0:28:16,PG**,E,good,,
+6,2,0:47:42,PG**,L,good,,
+6,2,0:48:44,PG**,E,good,,
+6,2,0:51:08,PG**,L,good,,
+6,2,0:59:29,PG**,E,good,,
+6,2,1:06:18,PG**,L,good,,
+6,2,1:12:56,PG**,LB,old,good,"first visible on good nest video, upper edge"
+6,2,1:13:19,PG**,E,good,,
+6,2,1:16:28,PG**,L,good,,confirmed
+6,2,1:16:35,PG**,E,good,,
+6,2,1:23:30,PG**,L,good,,
+6,2,1:24:49,PG**,E,good,,confirmed
+6,2,1:30:50,PG**,L,good,,gefixt
+6,2,1:40:50,PG**,E,good,,confirmed
+6,2,1:45:35,PG**,L,good,,
+6,2,1:50:45,PG**,E,good,,
+6,2,1:57:00,PG**,L,good,,
+6,2,1:59:55,PG**,E,good,,
+6,2,2:07:22,PG**,L,good,,
+6,2,2:22:32,PG**,E,mediocre,,
+6,2,2:25:08,PG**,L,mediocre,,
+6,2,2:28:17,PG**,E,good,,
+6,2,2:45:44,PG**,L,good,,confirmed
+6,2,2:46:00,PG**,E,good,,
+6,2,2:52:35,PG**,L,good,,
+6,2,2:52:36,PG**,FB,good,old,
+6,2,3:19:47,PG**,E,good,,
+6,2,3:24:01,PG**,L,good,,
+6,2,3:32:18,PG**,E,good,,
+6,2,3:37:06,PG**,L,good,,
+6,2,3:43:46,PG**,TA,good,old?,
+6,2,3:44:04,PG**,L,good,,
+6,2,3:56:20,PG**,TB,good,old?,
+6,2,4:01:21,PG**,FB,good,old,confirmed; follows Y*yG out of nest seconds later
+6,2,4:01:21,PG**,FB,good,old,
+6,2,4:01:21,PG**,L,good,,
+6,2,4:12:46,PG**,TA,good,old?,
+6,2,4:13:55,PG**,L,good,,
+6,2,4:17:18,PG**,TB,good,old?,
+6,2,4:18:48,PG**,L,good,,
+6,2,4:23:20,PG**,TB,good,old?,
+6,2,4:24:00,PG**,L,good,,
+6,2,4:28:26,PG**,TB,good,old?,
+6,2,4:29:44,PG**,L,good,,
+6,2,4:32:33,PG**,TB,good,old?,confirmed
+6,2,4:34:19,PG**,L,good,,"added, under wrong name"
+6,2,4:37:58,PG**,TB,good,old?,confirmed
+6,2,4:39:18,PG**,L,good,,
+6,2,4:43:17,PG**,TB,good,old?,
+6,2,4:45:29,PG**,L,good,,
+6,2,4:57:30,PG**,E,good,,
+6,2,5:08:15,PG**,L,good,,
+6,2,5:17:21,PG**,E,good,,
+6,2,1:11:29,PGGY,E,good,,
+6,2,1:18:21,PGGY,L,good,,confirmed.
+6,2,1:20:40,PGGY,E,good,,
+6,2,1:34:27,PGGY,L,good,,
+6,2,2:32:50,PGGY,E,good,,Entrance time is hazy. Hovers around entrance with her gaster partway through for about half a minute.
+6,2,3:35:07,PGGY,L,good,,
+6,2,3:41:40,PGGY,E,good,,
+6,2,1:24:13,PO**,E,mediocre,,
+6,2,1:24:45,PO**,L,mediocre,,
+6,2,1:24:59,PO**,E,mediocre,,
+6,2,1:29:27,PO**,L,mediocre,,
+6,2,1:30:36,PO**,E,mediocre,,
+6,2,1:30:39,PO**,L,mediocre,,
+6,2,4:03:15,PPWO,BC,good,old?,confirmed
+6,2,2:15:26,PYGL,E,good,,yes. duplicate deleted
+6,2,2:55:12,PYGL,L,good,,
+6,2,2:55:29,PYGL,E,good,,
+6,2,2:55:38,PYGL,L,good,,
+6,2,3:08:10,PYGL,E,good,,
+6,2,3:18:52,PYGL,L,good,,
+6,2,3:19:42,PYGL,E,good,,
+6,2,3:24:37,PYGL,FB,good,old,
+6,2,3:24:38,PYGL,L,good,,
+6,2,3:43:48,PYGL,E,good,,"Hazy entrance time. Half in, half out for a while."
+6,2,3:44:32,PYGL,L,good,,
+6,2,3:48:36,PYGL,E,good,,
+6,2,3:54:20,PYGL,L,good,,
+6,2,3:56:47,PYGL,E,good,,
+6,2,4:02:41,PYGL,L,good,,
+6,2,4:05:04,PYGL,TA,good,old?,
+6,2,4:16:44,PYGL,L,good,,
+6,2,4:23:24,PYGL,TB,good,old?,
+6,2,4:29:14,PYGL,L,good,,
+6,2,4:37:48,PYGL,TA,good,old?,
+6,2,4:41:45,PYGL,L,good,,
+6,2,4:47:48,PYGL,TB,good,old?,
+6,2,4:50:15,PYGL,L,good,,
+6,2,5:08:24,PYGL,E,good,,
+6,2,5:15:56,PYGL,L,good,,
+6,2,1:44:52,PYO*,E,good,,
+6,2,2:03:21,PYO*,L,good,,
+6,2,3:16:29,PYO*,BC,good,old?,
+6,2,4:03:30,PYO*,FB,good,old,"confirmed, follows wgow out of good nest. Tandem run starts around the time of exit."
+6,2,4:03:31,PYO*,L,good,,"Looks more like PY** than PYO*, but there is a sneaky orange spot on her gaster; see roster"
+6,2,4:07:33,PYO*,E,good,,
+6,2,4:14:03,PYO*,FB,good,old,follows WGOW out again
+6,2,4:14:03,PYO*,L,good,,
+6,2,4:32:51,PYO*,E,good,,name fixed
+6,2,4:46:35,PYO*,L,good,,name fixed
+6,2,4:50:58,PYO*,TB,good,old?,yes
+6,2,4:58:02,PYO*,L,good,,name fixed
+6,2,5:09:39,PYO*,E,good,,name fixed
+6,2,4:36:44,Queen,BC,good,old?,the highlight doesn't mean anything. visual landmark.
+6,2,4:40:20,W*GO,BC,good,old?,
+6,2,3:39:51,W*GW,BC,good,old?,
+6,2,4:25:05,W*W*,BC,good,old?,verified
+6,2,3:31:13,W*YOW,BC,good,old?,
+6,2,3:57:11,W*YOW,FB,good,old,follows WGOW out of nest
+6,2,3:57:55,W*YOW,L,good,,
+6,2,3:59:30,W*YOW,E,good,,
+6,2,4:25:07,W*YOW,L,good,,
+6,2,4:25:37,W*YOW,E,good,,
+6,2,4:12:46,WB**1,BC,good,old?,tiny
+6,2,4:21:34,WB**2,BC,good,old?,average size
+6,2,2:36:32,WBPO,E,mediocre,,
+6,2,2:38:27,WBPO,L,mediocre,,
+6,2,3:47:35,WBPO,BC,good,old?,
+6,2,2:02:16,WGG*,E,mediocre,,
+6,2,2:04:12,WGG*,L,mediocre,,"Follows wgow, who pauses to wait for her - tandem run out? Would be very in-character for wgow."
+6,2,3:02:07,WGG*,E,mediocre,,
+6,2,3:04:38,WGG*,BCO,mediocre,?,carried out by **WW
+6,2,3:24:31,WGG*,BC,good,?,
+6,2,3:25:59,WGGW,BC,good,old?,
+6,2,1:43:44,WGOW,E,good,,
+6,2,1:59:02,WGOW,L,good,,
+6,2,2:15:06,WGOW,E,good,,
+6,2,2:28:07,WGOW,L,good,,
+6,2,2:36:46,WGOW,TA,good,old?,
+6,2,2:41:15,WGOW,L,good,,
+6,2,2:41:17,WGOW,LB,good,old,"confirmed, leads BWYL out of nest"
+6,2,2:49:08,WGOW,TA,good,old?,
+6,2,2:52:26,WGOW,L,good,,
+6,2,2:52:36,WGOW,LB,good,old,
+6,2,3:00:10,WGOW,TB,good,old?,
+6,2,3:04:56,WGOW,L,good,,
+6,2,3:09:11,WGOW,TA,good,old?,
+6,2,3:13:21,WGOW,L,good,,
+6,2,3:16:29,WGOW,TA,good,old?,
+6,2,3:17:40,WGOW,L,good,,
+6,2,3:17:43,WGOW,LB,good,old,
+6,2,3:24:31,WGOW,TA,good,?,
+6,2,3:28:03,WGOW,L,good,,
+6,2,3:31:13,WGOW,TA,good,old?,
+6,2,3:33:18,WGOW,L,good,,
+6,2,3:33:36,WGOW,LB,good,old,
+6,2,3:39:51,WGOW,TA,good,old?,
+6,2,3:43:09,WGOW,L,good,,
+6,2,3:46:06,WGOW,TB,good,old?,
+6,2,3:48:28,WGOW,L,good,,
+6,2,3:48:30,WGOW,LB,good,old,
+6,2,3:55:36,WGOW,TB,good,old?,
+6,2,3:57:11,WGOW,LB,good,old,
+6,2,3:57:49,WGOW,L,good,,
+6,2,4:02:24,WGOW,TA,good,old?,
+6,2,4:03:26,WGOW,L,good,,
+6,2,4:03:30,WGOW,LB,good,old,
+6,2,4:07:16,WGOW,TB,good,old?,
+6,2,4:08:45,WGOW,LB,good,old,
+6,2,4:08:51,WGOW,L,good,,
+6,2,4:12:58,WGOW,TB,good,old?,
+6,2,4:13:59,WGOW,L,good,,
+6,2,4:14:03,WGOW,LB,good,old,
+6,2,4:17:30,WGOW,TA,good,old?,
+6,2,4:18:19,WGOW,L,good,,
+6,2,4:18:22,WGOW,LB,good,old,
+6,2,4:23:06,WGOW,TA,good,old?,
+6,2,4:23:55,WGOW,L,good,,
+6,2,4:23:59,WGOW,LB,good,old,
+6,2,4:26:35,WGOW,TA,good,old?,
+6,2,4:27:38,WGOW,L,good,,
+6,2,4:30:11,WGOW,TB,good,old?,
+6,2,4:31:24,WGOW,L,good,,
+6,2,4:33:52,WGOW,TA,good,old?,
+6,2,4:34:52,WGOW,L,good,,
+6,2,4:40:59,WGOW,TB,good,old?,
+6,2,4:42:02,WGOW,L,good,,verified
+6,2,4:42:04,WGOW,LB,good,old,
+6,2,4:47:53,WGOW,TB,good,old?,
+6,2,4:49:02,WGOW,L,good,,
+6,2,4:49:05,WGOW,LB,good,old,
+6,2,5:01:34,WGOW,BC,good,old?,
+6,2,5:13:25,WGOW,L,good,,
+6,2,3:09:11,WL**,BC,good,old?,carried in by WGOW. same WL** as in later migrations
+6,2,4:15:20,WL**,L,good,,
+6,2,2:03:41,WO**1,E,mediocre,,round head
+6,2,2:07:58,WO**1,L,mediocre,,round head
+6,2,2:22:00,WO**1,E,mediocre,,round head
+6,2,2:24:54,WO**1,L,mediocre,,round head
+6,2,2:43:37,WO**1,E,good,,round head
+6,2,3:09:25,WO**1,L,good,,round head
+6,2,3:11:25,WO**1,TA,good,old?,round head
+6,2,3:11:53,WO**1,L,good,,Was carried into nest between 3:09:23 and 3:11:51
+6,2,3:14:40,WO**1,E,good,,round head
+6,2,3:17:42,WO**1,L,good,,
+6,2,3:17:43,WO**1,FB,good,old,
+6,2,3:31:01,WO**1,TB,good,old?,round
+6,2,3:33:21,WO**1,L,good,,round head
+6,2,3:33:36,WO**1,FB,good,old,
+6,2,3:47:35,WO**1,TA,good,old?,round head
+6,2,3:48:30,WO**1,FB,good,old,round head
+6,2,3:48:31,WO**1,L,good,,round head
+6,2,3:56:12,WO**1,TB,good,old?,round head
+6,2,3:58:15,WO**1,L,good,,round head
+6,2,4:02:45,WO**1,TB,good,old?,round head
+6,2,4:03:44,WO**1,L,good,,round head
+6,2,4:07:15,WO**1,TB,good,old?,round head
+6,2,4:08:23,WO**1,L,good,,round head
+6,2,4:11:19,WO**1,TB,good,old?,round head
+6,2,4:12:34,WO**1,L,good,,round head
+6,2,4:15:38,WO**1,TB,good,old?,round head
+6,2,4:16:28,WO**1,L,good,,round head
+6,2,4:21:34,WO**1,TA,good,old?,round head
+6,2,4:22:47,WO**1,L,good,,round head
+6,2,4:25:27,WO**1,TB,good,old?,round head
+6,2,4:26:34,WO**1,L,good,,round head
+6,2,4:29:30,WO**1,TB,good,old?,round head
+6,2,4:30:23,WO**1,L,good,,round head
+6,2,4:33:03,WO**1,TB,good,old?,round head
+6,2,4:33:50,WO**1,L,good,,round head
+6,2,4:36:59,WO**1,TB,good,old?,round head
+6,2,4:39:33,WO**1,L,good,,round head
+6,2,4:42:56,WO**1,TB,good,old?,round head
+6,2,4:43:57,WO**1,L,good,,Round head. Not WO**2.
+6,2,4:49:22,WO**1,TA,good,old?,round head
+6,2,4:52:50,WO**1,L,good,,Round head
+6,2,5:06:52,WO**1,E,good,,round head
+6,2,4:02:24,WO**2,BC,good,old?,one antenna
+6,2,1:22:48,WOo*1,E,mediocre,,glob head
+6,2,1:25:30,WOo*1,L,mediocre,,glob head
+6,2,3:01:36,WOo*1,E,mediocre,,glob head
+6,2,3:03:33,WOo*1,L,mediocre,,glob head
+6,2,3:03:36,WOo*1,E,mediocre,,glob head
+6,2,3:05:38,WOo*1,L,mediocre,,glob head
+6,2,3:20:10,WOo*1,E,mediocre,,glob head
+6,2,3:22:25,WOo*1,L,mediocre,,glob head
+6,2,3:59:13,WOo*1,BC,good,old?,GLOB HEAD
+6,2,4:18:02,WOo*1,L,good,,glob head
+6,2,4:37:38,WOo*1,E,good,,glob head
+6,2,4:39:23,WOo*1,L,good,,glob head
+6,2,4:46:04,WOo*1,E,good,,Glob head
+6,2,4:50:56,WOo*1,L,good,,glob head
+6,2,4:58:17,WOo*1,E,good,,glob head
+6,2,5:13:17,WOo*1,L,good,,glob head
+6,2,3:36:37,wOo*2,BC,good,old?,
+6,2,0:22:01,wp**,E,good,,Good camera started 2 seconds after mediocre camera
+6,2,0:29:16,wp**,L,good,,
+6,2,1:00:48,wp**,E,good,,
+6,2,1:03:53,wp**,L,good,,
+6,2,1:18:44,wp**,E,good,,
+6,2,1:25:13,wp**,L,good,,
+6,2,1:33:24,wp**,E,mediocre,,
+6,2,1:36:48,wp**,L,mediocre,,
+6,2,1:46:54,wp**,E,good,,
+6,2,2:36:39,wp**,L,good,,
+6,2,2:36:55,wp**,E,good,,
+6,2,2:53:42,wp**,L,good,,
+6,2,2:54:08,wp**,E,good,,
+6,2,2:54:21,wp**,L,good,,
+6,2,3:03:01,wp**,TB,good,old?,
+6,2,3:12:25,wp**,L,good,,
+6,2,3:17:18,wp**,E,good,,
+6,2,3:21:54,wp**,L,good,,
+6,2,3:25:59,wp**,TA,good,old?,
+6,2,3:27:24,wp**,L,good,,
+6,2,3:30:18,wp**,TB,good,old?,
+6,2,3:32:53,wp**,L,good,,
+6,2,3:36:07,wp**,TB,good,old?,
+6,2,3:38:01,wp**,L,good,,
+6,2,3:40:51,wp**,TB,good,old?,
+6,2,3:43:49,wp**,L,good,,
+6,2,3:47:12,wp**,TA,good,old?,
+6,2,3:48:16,wp**,L,good,,
+6,2,3:50:58,wp**,TA,good,old?,
+6,2,3:51:34,wp**,L,good,,
+6,2,3:54:51,wp**,TB,good,old?,
+6,2,3:56:50,wp**,L,good,,
+6,2,3:59:13,wp**,TA,good,old?,
+6,2,3:59:34,wp**,L,good,,
+6,2,4:02:10,wp**,TA,good,old?,
+6,2,4:05:09,wp**,L,good,,
+6,2,4:08:43,wp**,TB,good,old?,
+6,2,4:10:48,wp**,L,good,,
+6,2,4:13:00,wp**,TA,good,old?,
+6,2,4:15:20,wp**,L,good,,
+6,2,4:19:06,wp**,E,good,,
+6,2,4:19:10,wp**,L,good,,
+6,2,4:20:04,wp**,TB,good,old?,
+6,2,4:22:15,wp**,L,good,,
+6,2,4:26:55,wp**,TA,good,old?,
+6,2,4:28:46,wp**,L,good,,
+6,2,4:31:58,wp**,TA,good,old?,
+6,2,4:32:34,wp**,L,good,,
+6,2,4:35:11,wp**,TA,good,old?,
+6,2,4:35:54,wp**,L,good,,
+6,2,4:38:26,wp**,TB,good,old?,
+6,2,4:39:54,wp**,L,good,,
+6,2,4:42:02,wp**,TB,good,old?,
+6,2,4:43:09,wp**,L,good,,
+6,2,5:02:59,wp**,E,good,,
+6,2,0:51:24,WPWY,E,good,,
+6,2,0:52:35,WPWY,L,good,,
+6,2,1:39:22,WPWY,E,mediocre,,
+6,2,1:45:17,WPWY,L,mediocre,,
+6,2,4:47:17,WPWY,E,good,,
+6,2,5:05:46,WPWY,L,good,,
+6,2,4:38:04,WW**,BC,good,old?,
+6,2,0:39:25,Y*PO,E,mediocre,,
+6,2,0:39:32,Y*PO,L,mediocre,,
+6,2,1:05:17,Y*PO,E,mediocre,,
+6,2,1:07:27,Y*PO,L,mediocre,,
+6,2,1:44:40,Y*PO,E,good,,verified
+6,2,2:01:51,Y*PO,L,good,,verified
+6,2,2:02:51,Y*PO,E,good,,
+6,2,2:03:02,Y*PO,L,good,,
+6,2,2:05:00,Y*PO,E,good,,
+6,2,2:05:55,Y*PO,L,good,,
+6,2,2:14:42,Y*PO,E,good,,
+6,2,2:42:15,Y*PO,L,good,,
+6,2,2:50:14,Y*PO,E,good,,
+6,2,2:56:32,Y*PO,L,good,,
+6,2,2:56:39,Y*PO,E,good,,
+6,2,2:56:49,Y*PO,L,good,,
+6,2,3:07:20,Y*PO,E,good,,
+6,2,3:13:32,Y*PO,L,good,,
+6,2,3:33:34,Y*PO,E,good,,
+6,2,3:38:36,Y*PO,L,good,,
+6,2,3:48:13,Y*PO,E,good,,
+6,2,3:51:47,Y*PO,L,good,,
+6,2,3:57:11,Y*PO,TB,good,old?,
+6,2,4:00:10,Y*PO,L,good,,
+6,2,4:06:07,Y*PO,TA,good,old?,
+6,2,4:09:40,Y*PO,LB,good,old,tandem first visible at 4:09:39 within the nest. Y*PO eads P*Y* out of good
+6,2,4:12:19,Y*PO,L,good,,verified
+6,2,4:12:23,Y*PO,LB,good,old,
+6,2,4:19:16,Y*PO,TB,good,old?,verified
+6,2,4:24:44,Y*PO,L,good,,verified
+6,2,4:30:42,Y*PO,TB,good,old?,verified
+6,2,4:33:36,Y*PO,L,good,,
+6,2,4:39:10,Y*PO,TB,good,old?,
+6,2,4:41:12,Y*PO,L,good,,
+6,2,4:45:53,Y*PO,TB,good,old?,
+6,2,4:49:42,Y*PO,L,good,,
+6,2,5:13:23,Y*PO,E,mediocre,,
+6,2,5:13:31,Y*PO,L,mediocre,,
+6,2,0:36:52,Y*yG,E,mediocre,,
+6,2,0:36:58,Y*yG,L,mediocre,,
+6,2,1:12:43,Y*yG,E,mediocre,,
+6,2,1:36:23,Y*yG,L,mediocre,,
+6,2,1:54:06,Y*yG,E,good,,verified
+6,2,3:33:17,Y*yG,L,good,,verified
+6,2,3:33:36,Y*yG,FB,good,old,
+6,2,3:47:32,Y*yG,E,good,,
+6,2,3:51:11,Y*yG,L,good,,
+6,2,3:56:39,Y*yG,TA,good,old?,verified; carries in LG**
+6,2,4:01:21,Y*yG,LB,good,old,verified. Leads PG** away from good entrance
+6,2,4:01:22,Y*yG,L,good,,verified. Leads PG** away from good entrance
+6,2,4:09:24,Y*yG,E,good,,
+6,2,4:09:41,Y*yG,L,good,,
+6,2,4:10:08,Y*yG,E,good,,
+6,2,4:12:28,Y*yG,L,good,,
+6,2,4:16:36,Y*yG,TB,good,old?,verified
+6,2,4:19:08,Y*yG,L,good,,verified
+6,2,4:25:05,Y*yG,TA,good,old?,"verified, carries in W*W*"
+6,2,4:26:30,Y*yG,L,good,,verified
+6,2,4:30:57,Y*yG,TB,good,old?,verified
+6,2,4:33:21,Y*yG,L,good,,verified
+6,2,4:33:24,Y*yG,LB,good,old,
+6,2,4:38:04,Y*yG,TA,good,old?,
+6,2,4:39:31,Y*yG,L,good,,
+6,2,4:45:58,Y*yG,TA,good,old?,
+6,2,4:49:05,Y*yG,FB,good,old,
+6,2,4:49:05,Y*yG,L,good,,
+6,2,5:07:21,Y*yG,TU,good,,
+6,2,1:05:34,YO**,E,mediocre,,
+6,2,1:07:25,YO**,L,mediocre,,
+6,2,1:07:43,YO**,E,mediocre,,
+6,2,1:08:47,YO**,L,mediocre,,
+6,2,1:11:32,YO**,E,mediocre,,
+6,2,1:14:21,YO**,L,mediocre,,
+6,2,1:14:24,YO**,E,mediocre,,
+6,2,1:18:02,YO**,L,mediocre,,
+6,2,1:56:34,YO**,E,good,,
+6,2,3:13:34,YO**,L,good,,
+6,2,3:13:44,YO**,E,good,,
+6,2,3:17:45,YO**,L,good,,
+6,2,3:18:04,YO**,E,good,,
+6,2,3:34:15,YO**,L,good,,
+6,2,3:37:48,YO**,E,good,,conf
+6,2,4:23:59,YO**,FB,good,old,follows WGOW out and away from nest
+6,2,4:24:00,YO**,L,good,,fixed - ant identity changed from YP** to YO**
+6,2,4:29:06,YO**,E,good,,conf
+6,2,4:47:04,YO**,L,good,,
+6,2,5:07:35,YO**,E,good,,
+6,2,0:57:10,Yo*O,E,mediocre,,
+6,2,0:57:34,Yo*O,L,mediocre,,
+6,2,0:57:35,Yo*O,E,mediocre,,
+6,2,1:02:12,Yo*O,L,mediocre,,
+6,2,1:13:00,Yo*O,E,mediocre,,
+6,2,1:35:45,Yo*O,L,mediocre,,
+6,2,1:38:07,Yo*O,E,mediocre,,
+6,2,1:38:09,Yo*O,L,mediocre,,
+6,2,1:41:05,Yo*O,E,mediocre,,
+6,2,1:41:07,Yo*O,L,mediocre,,
+6,2,1:55:21,Yo*O,E,mediocre,,
+6,2,2:01:10,Yo*O,L,mediocre,,
+6,2,2:11:47,Yo*O,E,mediocre,,
+6,2,2:11:51,Yo*O,L,mediocre,,
+6,2,2:43:27,Yo*O,E,mediocre,,
+6,2,2:52:21,Yo*O,L,mediocre,,
+6,2,3:11:25,Yo*O,BC,good,old?,
+6,2,3:48:11,Yo*O,L,good,,
+6,2,3:51:53,Yo*O,E,good,,
+6,2,4:08:45,Yo*O,FB,good,old,follows WGOW out and away from nest
+6,2,4:08:54,Yo*O,L,good,,
+6,2,4:13:10,Yo*O,E,good,,
+6,2,4:18:21,Yo*O,L,good,,yes. ant identity corrected
+6,2,4:18:22,Yo*O,FB,good,old,
+6,2,5:17:56,Yo*O,TB,good,old?,
+6,2,4:06:07,YP*B,BC,good,old?,
+6,2,2:12:05,Yp*Y,E,mediocre,,
+6,2,2:18:52,Yp*Y,L,mediocre,,
+6,2,3:13:50,Yp*Y,BC,good,old?,
+6,2,4:20:58,Yp*Y,L,good,,
+6,2,4:21:12,Yp*Y,E,good,,yes
+6,2,4:22:29,Yp*Y,L,good,,fixed
+6,2,4:22:35,Yp*Y,E,good,,yes
+6,2,4:22:50,Yp*Y,L,good,,
+6,2,5:07:44,Yp*Y,E,good,,
+6,2,0:56:05,YPP*,E,mediocre,,
+6,2,0:56:30,YPP*,L,mediocre,,
+6,2,2:32:21,YPP*,E,good,,yes
+6,2,4:09:19,YPP*,L,good,,yes
