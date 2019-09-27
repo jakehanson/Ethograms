@@ -2,7 +2,7 @@
 An ethogram is a way of visualizing behavior as a function of time. This repository contains code used to create ethograms for a colony of Temnothorax ants during emigration.
 
       
-G. Valentini, N .Masuda, Z. Shaffer, J.R. Hanson, T. Sasak, S.I. Walker, T.P. Pavlic, and S.C. Pratt. *Division of labor promotes the spread of information in colony emigrations by the ant Temnothorax rugatulus*. 2019, in prep.
+G. Valentini, N. Masuda, Z. Shaffer, J. Hanson, T. Sasak, S. Walker, T. Pavlic, and S. Pratt. *Division of labor promotes the spread of information in colony emigrations by the ant Temnothorax rugatulus*. 2019, in prep.
 
 
 #### Colony 6 - Treatment 1
